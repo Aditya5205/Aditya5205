@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **adityasingh19122002@gmail.com**
 
+- 👀 Checkout my project : [**Game Matrix**](https://gamematrix.vercel.app)
+
 - 📄 Here's [My Resume](https://drive.google.com/file/d/1Up187jxJQ9XQwamjb2euevpR1rk96uSz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
